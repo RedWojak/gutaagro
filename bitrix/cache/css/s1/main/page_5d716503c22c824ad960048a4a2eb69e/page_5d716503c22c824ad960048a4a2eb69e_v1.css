@@ -1,0 +1,30 @@
+
+
+/* Start:/local/templates/main/components/bitrix/news.list/lots1/style.css?1662733302384*/
+.parcels-list{
+	margin-top:40px;
+}
+.parcels-list .item{
+	margin-bottom:20px;
+}
+.parcels-list .item-img{
+	float:left;
+	position:relative;
+	max-width:200px;
+}
+.parcels-list .item-name{
+	float:left;
+	position:relative;
+	font-weight:700;
+}
+.parcels-list .item-desc{
+	float:left;
+	position:relative;
+	margin: 0 20px 20px;
+	text-align:left;
+}
+.parcels-list .item-desc strong{
+	float:left;
+}
+/* End */
+/* /local/templates/main/components/bitrix/news.list/lots1/style.css?1662733302384 */

@@ -1,0 +1,596 @@
+Uri: https://fonts.googleapis.com/css?family=Ubuntu:400,300,500,700&subset=latin,cyrillic-ext,greek-ext,greek,latin-ext,cyrillic
+File Name: d:\src\gutaagro\gutaagro.ru\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/ubuntu/v20/4iCs6KVjbNBYlgo6eA.ttf
+File Name: d:\src\gutaagro\gutaagro.ru\s\ubuntu\v20\4iCs6KVjbNBYlgo6eA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ubuntu/v20/4iCv6KVjbNBYlgoC1CzTtw.ttf
+File Name: d:\src\gutaagro\gutaagro.ru\s\ubuntu\v20\4iCv6KVjbNBYlgoC1CzTtw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ubuntu/v20/4iCv6KVjbNBYlgoCjC3Ttw.ttf
+File Name: d:\src\gutaagro\gutaagro.ru\s\ubuntu\v20\4iCv6KVjbNBYlgoCjC3Ttw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ubuntu/v20/4iCv6KVjbNBYlgoCxCvTtw.ttf
+File Name: d:\src\gutaagro\gutaagro.ru\s\ubuntu\v20\4iCv6KVjbNBYlgoCxCvTtw.ttf
+Content Type: font/ttf
+
+Uri: https://gutaagro.ru/
+File Name: d:\src\gutaagro\gutaagro.ru\index.htm
+Content Type: text/html
+
+Uri: https://gutaagro.ru/about/
+File Name: d:\src\gutaagro\gutaagro.ru\about\index.htm
+Content Type: text/html
+
+Uri: https://gutaagro.ru/about/kardimovski/
+File Name: d:\src\gutaagro\gutaagro.ru\about\kardimovski\index.htm
+Content Type: text/html
+
+Uri: https://gutaagro.ru/about/promsahar/
+File Name: d:\src\gutaagro\gutaagro.ru\about\promsahar\index.htm
+Content Type: text/html
+
+Uri: https://gutaagro.ru/about/rilskaya/
+File Name: d:\src\gutaagro\gutaagro.ru\about\rilskaya\index.htm
+Content Type: text/html
+
+Uri: https://gutaagro.ru/bitrix/cache/css/s1/main/kernel_main/kernel_main_v1.css?163041319228822
+File Name: d:\src\gutaagro\gutaagro.ru\bitrix\cache\css\s1\main\kernel_main\kernel_main_v1.css
+Content Type: text/css
+
+Uri: https://gutaagro.ru/bitrix/cache/css/s1/main/page_05fcab040ae09f4c4a2411e14138be7a/page_05fcab040ae09f4c4a2411e14138be7a_v1.css?1662821711398
+File Name: d:\src\gutaagro\gutaagro.ru\bitrix\cache\css\s1\main\page_05fcab040ae09f4c4a2411e14138be7a\page_05fcab040ae09f4c4a2411e14138be7a_v1.css
+Content Type: text/css
+
+Uri: https://gutaagro.ru/bitrix/cache/css/s1/main/page_5d716503c22c824ad960048a4a2eb69e/page_5d716503c22c824ad960048a4a2eb69e_v1.css?1662735250574
+File Name: d:\src\gutaagro\gutaagro.ru\bitrix\cache\css\s1\main\page_5d716503c22c824ad960048a4a2eb69e\page_5d716503c22c824ad960048a4a2eb69e_v1.css
+Content Type: text/css
+
+Uri: https://gutaagro.ru/bitrix/cache/css/s1/main/page_7f9722d93820e69fc8a572e08c9c522d/page_7f9722d93820e69fc8a572e08c9c522d_v1.css?1662733401572
+File Name: d:\src\gutaagro\gutaagro.ru\bitrix\cache\css\s1\main\page_7f9722d93820e69fc8a572e08c9c522d\page_7f9722d93820e69fc8a572e08c9c522d_v1.css
+Content Type: text/css
+
+Uri: https://gutaagro.ru/bitrix/cache/css/s1/main/page_b182f6b88da0ad800147f2da454f764d/page_b182f6b88da0ad800147f2da454f764d_v1.css?1662737813580
+File Name: d:\src\gutaagro\gutaagro.ru\bitrix\cache\css\s1\main\page_b182f6b88da0ad800147f2da454f764d\page_b182f6b88da0ad800147f2da454f764d_v1.css
+Content Type: text/css
+
+Uri: https://gutaagro.ru/bitrix/cache/css/s1/main/template_3ba2b5425f56badd16eb220c29e7a6b2/template_3ba2b5425f56badd16eb220c29e7a6b2_v1.css?166273331117577
+File Name: d:\src\gutaagro\gutaagro.ru\bitrix\cache\css\s1\main\template_3ba2b5425f56badd16eb220c29e7a6b2\template_3ba2b5425f56badd16eb220c29e7a6b2_v1.css
+Content Type: text/css
+
+Uri: https://gutaagro.ru/bitrix/cache/js/s1/main/kernel_main/kernel_main_v1.js?16766358600
+File Name: d:\src\gutaagro\gutaagro.ru\bitrix\cache\js\s1\main\kernel_main\kernel_main_v1.js
+Content Type: application/javascript
+
+Uri: https://gutaagro.ru/bitrix/cache/js/s1/main/kernel_main_polyfill_promise/kernel_main_polyfill_promise_v1.js?16087299092506
+File Name: d:\src\gutaagro\gutaagro.ru\bitrix\cache\js\s1\main\kernel_main_polyfill_promise\kernel_main_polyfill_promise_v1.js
+Content Type: application/javascript
+
+Uri: https://gutaagro.ru/bitrix/js/main/core/images/calendar-sprite.png
+File Name: d:\src\gutaagro\gutaagro.ru\bitrix\js\main\core\images\calendar-sprite.png
+Content Type: image/png
+
+Uri: https://gutaagro.ru/bitrix/js/main/core/images/panel/top-panel-sprite-2.png
+File Name: d:\src\gutaagro\gutaagro.ru\bitrix\js\main\core\images\panel\top-panel-sprite-2.png
+Content Type: image/png
+
+Uri: https://gutaagro.ru/bitrix/js/main/core/images/popup/menu-popup-item-angel.svg
+File Name: d:\src\gutaagro\gutaagro.ru\bitrix\js\main\core\images\popup\menu-popup-item-angel.svg
+Content Type: image/svg+xml
+
+Uri: https://gutaagro.ru/bitrix/js/main/core/images/popup/popup-menu-sprite.2.png
+File Name: d:\src\gutaagro\gutaagro.ru\bitrix\js\main\core\images\popup\popup-menu-sprite.2.png
+Content Type: image/png
+
+Uri: https://gutaagro.ru/bitrix/js/main/jquery/jquery-2.1.3.min.min.js?159980476084283
+File Name: d:\src\gutaagro\gutaagro.ru\bitrix\js\main\jquery\jquery-2.1.3.min.min.js
+Content Type: application/javascript
+
+Uri: https://gutaagro.ru/bitrix/js/main/loadext/extension.min.js?15998047601304
+File Name: d:\src\gutaagro\gutaagro.ru\bitrix\js\main\loadext\extension.min.js
+Content Type: application/javascript
+
+Uri: https://gutaagro.ru/bitrix/js/main/loadext/loadext.min.js?1599804760810
+File Name: d:\src\gutaagro\gutaagro.ru\bitrix\js\main\loadext\loadext.min.js
+Content Type: application/javascript
+
+Uri: https://gutaagro.ru/buyers/
+File Name: d:\src\gutaagro\gutaagro.ru\buyers\index.htm
+Content Type: text/html
+
+Uri: https://gutaagro.ru/buyers/img/grain2.png
+File Name: d:\src\gutaagro\gutaagro.ru\buyers\img\grain2.png
+Content Type: image/png
+
+Uri: https://gutaagro.ru/buyers/img/gruzovik.png
+File Name: d:\src\gutaagro\gutaagro.ru\buyers\img\gruzovik.png
+Content Type: image/png
+
+Uri: https://gutaagro.ru/buyers/img/kombain.png
+File Name: d:\src\gutaagro\gutaagro.ru\buyers\img\kombain.png
+Content Type: image/png
+
+Uri: https://gutaagro.ru/buyers/img/pricep.png
+File Name: d:\src\gutaagro\gutaagro.ru\buyers\img\pricep.png
+Content Type: image/png
+
+Uri: https://gutaagro.ru/buyers/img/traktor.png
+File Name: d:\src\gutaagro\gutaagro.ru\buyers\img\traktor.png
+Content Type: image/png
+
+Uri: https://gutaagro.ru/buyers/img/zao.png
+File Name: d:\src\gutaagro\gutaagro.ru\buyers\img\zao.png
+Content Type: image/png
+
+Uri: https://gutaagro.ru/buyers/kardimovski.php
+File Name: d:\src\gutaagro\gutaagro.ru\buyers\kardimovski.php.html
+Content Type: text/html
+
+Uri: https://gutaagro.ru/buyers/promsahar.php
+File Name: d:\src\gutaagro\gutaagro.ru\buyers\promsahar.php.html
+Content Type: text/html
+
+Uri: https://gutaagro.ru/buyers/rilskaya.php
+File Name: d:\src\gutaagro\gutaagro.ru\buyers\rilskaya.php.html
+Content Type: text/html
+
+Uri: https://gutaagro.ru/cdn-cgi/images/browser-bar.png?1376755637
+File Name: d:\src\gutaagro\gutaagro.ru\cdn-cgi\images\browser-bar.png
+Content Type: image/png
+
+Uri: https://gutaagro.ru/cdn-cgi/images/cf-icon-browser.png
+File Name: d:\src\gutaagro\gutaagro.ru\cdn-cgi\images\cf-icon-browser.png
+Content Type: image/png
+
+Uri: https://gutaagro.ru/cdn-cgi/images/cf-icon-cloud.png
+File Name: d:\src\gutaagro\gutaagro.ru\cdn-cgi\images\cf-icon-cloud.png
+Content Type: image/png
+
+Uri: https://gutaagro.ru/cdn-cgi/images/cf-icon-error.png
+File Name: d:\src\gutaagro\gutaagro.ru\cdn-cgi\images\cf-icon-error.png
+Content Type: image/png
+
+Uri: https://gutaagro.ru/cdn-cgi/images/cf-icon-horizontal-arrow.png
+File Name: d:\src\gutaagro\gutaagro.ru\cdn-cgi\images\cf-icon-horizontal-arrow.png
+Content Type: image/png
+
+Uri: https://gutaagro.ru/cdn-cgi/images/cf-icon-ok.png
+File Name: d:\src\gutaagro\gutaagro.ru\cdn-cgi\images\cf-icon-ok.png
+Content Type: image/png
+
+Uri: https://gutaagro.ru/cdn-cgi/images/cf-icon-server.png
+File Name: d:\src\gutaagro\gutaagro.ru\cdn-cgi\images\cf-icon-server.png
+Content Type: image/png
+
+Uri: https://gutaagro.ru/cdn-cgi/images/cf-no-screenshot-error.png
+File Name: d:\src\gutaagro\gutaagro.ru\cdn-cgi\images\cf-no-screenshot-error.png
+Content Type: image/png
+
+Uri: https://gutaagro.ru/cdn-cgi/images/cf-no-screenshot-warn.png
+File Name: d:\src\gutaagro\gutaagro.ru\cdn-cgi\images\cf-no-screenshot-warn.png
+Content Type: image/png
+
+Uri: https://gutaagro.ru/cdn-cgi/images/icon-exclamation.png?1376755637
+File Name: d:\src\gutaagro\gutaagro.ru\cdn-cgi\images\icon-exclamation.png
+Content Type: image/png
+
+Uri: https://gutaagro.ru/cdn-cgi/l/email-protection
+File Name: d:\src\gutaagro\gutaagro.ru\cdn-cgi\l\email-protection.html
+Content Type: text/html
+
+Uri: https://gutaagro.ru/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: d:\src\gutaagro\gutaagro.ru\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://gutaagro.ru/cdn-cgi/styles/cf.errors.css
+File Name: d:\src\gutaagro\gutaagro.ru\cdn-cgi\styles\cf.errors.css
+Content Type: text/css
+
+Uri: https://gutaagro.ru/contacts/
+File Name: d:\src\gutaagro\gutaagro.ru\contacts\index.htm
+Content Type: text/html
+
+Uri: https://gutaagro.ru/images/account.svg
+File Name: d:\src\gutaagro\gutaagro.ru\images\account.svg
+Content Type: image/svg+xml
+
+Uri: https://gutaagro.ru/images/agro-logo.png
+File Name: d:\src\gutaagro\gutaagro.ru\images\agro-logo.png
+Content Type: image/png
+
+Uri: https://gutaagro.ru/images/arrow-right-bold-circle-outline.svg
+File Name: d:\src\gutaagro\gutaagro.ru\images\arrow-right-bold-circle-outline.svg
+Content Type: image/svg+xml
+
+Uri: https://gutaagro.ru/images/bg-main-2.jpg
+File Name: d:\src\gutaagro\gutaagro.ru\images\bg-main-2.jpg
+Content Type: image/jpeg
+
+Uri: https://gutaagro.ru/images/bg-main.jpg
+File Name: d:\src\gutaagro\gutaagro.ru\images\bg-main.jpg
+Content Type: image/jpeg
+
+Uri: https://gutaagro.ru/images/border-2.png
+File Name: d:\src\gutaagro\gutaagro.ru\images\border-2.png
+Content Type: image/png
+
+Uri: https://gutaagro.ru/images/border.png
+File Name: d:\src\gutaagro\gutaagro.ru\images\border.png
+Content Type: image/png
+
+Uri: https://gutaagro.ru/images/email-outline.svg
+File Name: d:\src\gutaagro\gutaagro.ru\images\email-outline.svg
+Content Type: image/svg+xml
+
+Uri: https://gutaagro.ru/images/footer-bg.jpg
+File Name: d:\src\gutaagro\gutaagro.ru\images\footer-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://gutaagro.ru/images/jaqston_logo.png
+File Name: d:\src\gutaagro\gutaagro.ru\images\jaqston_logo.png
+Content Type: image/png
+
+Uri: https://gutaagro.ru/images/main_sprite.png
+File Name: d:\src\gutaagro\gutaagro.ru\images\main_sprite.png
+Content Type: image/png
+
+Uri: https://gutaagro.ru/images/map-marker.svg
+File Name: d:\src\gutaagro\gutaagro.ru\images\map-marker.svg
+Content Type: image/svg+xml
+
+Uri: https://gutaagro.ru/images/menu-border.png
+File Name: d:\src\gutaagro\gutaagro.ru\images\menu-border.png
+Content Type: image/png
+
+Uri: https://gutaagro.ru/images/menu-left.svg
+File Name: d:\src\gutaagro\gutaagro.ru\images\menu-left.svg
+Content Type: image/svg+xml
+
+Uri: https://gutaagro.ru/images/menu-right.svg
+File Name: d:\src\gutaagro\gutaagro.ru\images\menu-right.svg
+Content Type: image/svg+xml
+
+Uri: https://gutaagro.ru/images/o/slide1.png
+File Name: d:\src\gutaagro\gutaagro.ru\images\o\slide1.png
+Content Type: image/png
+
+Uri: https://gutaagro.ru/images/o/slide10.png
+File Name: d:\src\gutaagro\gutaagro.ru\images\o\slide10.png
+Content Type: image/png
+
+Uri: https://gutaagro.ru/images/o/slide11.png
+File Name: d:\src\gutaagro\gutaagro.ru\images\o\slide11.png
+Content Type: image/png
+
+Uri: https://gutaagro.ru/images/o/slide12.png
+File Name: d:\src\gutaagro\gutaagro.ru\images\o\slide12.png
+Content Type: image/png
+
+Uri: https://gutaagro.ru/images/o/slide13.png
+File Name: d:\src\gutaagro\gutaagro.ru\images\o\slide13.png
+Content Type: image/png
+
+Uri: https://gutaagro.ru/images/o/slide14.png
+File Name: d:\src\gutaagro\gutaagro.ru\images\o\slide14.png
+Content Type: image/png
+
+Uri: https://gutaagro.ru/images/o/slide15.png
+File Name: d:\src\gutaagro\gutaagro.ru\images\o\slide15.png
+Content Type: image/png
+
+Uri: https://gutaagro.ru/images/o/slide2.png
+File Name: d:\src\gutaagro\gutaagro.ru\images\o\slide2.png
+Content Type: image/png
+
+Uri: https://gutaagro.ru/images/o/slide4.png
+File Name: d:\src\gutaagro\gutaagro.ru\images\o\slide4.png
+Content Type: image/png
+
+Uri: https://gutaagro.ru/images/o/slide5.png
+File Name: d:\src\gutaagro\gutaagro.ru\images\o\slide5.png
+Content Type: image/png
+
+Uri: https://gutaagro.ru/images/o/slide6.png
+File Name: d:\src\gutaagro\gutaagro.ru\images\o\slide6.png
+Content Type: image/png
+
+Uri: https://gutaagro.ru/images/o/slide7.png
+File Name: d:\src\gutaagro\gutaagro.ru\images\o\slide7.png
+Content Type: image/png
+
+Uri: https://gutaagro.ru/images/o/slide8.png
+File Name: d:\src\gutaagro\gutaagro.ru\images\o\slide8.png
+Content Type: image/png
+
+Uri: https://gutaagro.ru/images/o/slide9.png
+File Name: d:\src\gutaagro\gutaagro.ru\images\o\slide9.png
+Content Type: image/png
+
+Uri: https://gutaagro.ru/images/phone.svg
+File Name: d:\src\gutaagro\gutaagro.ru\images\phone.svg
+Content Type: image/svg+xml
+
+Uri: https://gutaagro.ru/images/s/slide1.png
+File Name: d:\src\gutaagro\gutaagro.ru\images\s\slide1.png
+Content Type: image/png
+
+Uri: https://gutaagro.ru/images/s/slide3.jpg
+File Name: d:\src\gutaagro\gutaagro.ru\images\s\slide3.jpg
+Content Type: image/jpeg
+
+Uri: https://gutaagro.ru/images/s/slide5.png
+File Name: d:\src\gutaagro\gutaagro.ru\images\s\slide5.png
+Content Type: image/png
+
+Uri: https://gutaagro.ru/images/search_top.png
+File Name: d:\src\gutaagro\gutaagro.ru\images\search_top.png
+Content Type: image/png
+
+Uri: https://gutaagro.ru/local/templates/main/components/bitrix/menu/top/images/arrow.gif
+File Name: d:\src\gutaagro\gutaagro.ru\local\templates\main\components\bitrix\menu\top\images\arrow.gif
+Content Type: image/gif
+
+Uri: https://gutaagro.ru/local/templates/main/components/bitrix/menu/top/images/header_menu_bg.gif
+File Name: d:\src\gutaagro\gutaagro.ru\local\templates\main\components\bitrix\menu\top\images\header_menu_bg.gif
+Content Type: image/gif
+
+Uri: https://gutaagro.ru/local/templates/main/components/bitrix/menu/top/images/lock.gif
+File Name: d:\src\gutaagro\gutaagro.ru\local\templates\main\components\bitrix\menu\top\images\lock.gif
+Content Type: image/gif
+
+Uri: https://gutaagro.ru/local/templates/main/css/agro.ext.css
+File Name: d:\src\gutaagro\gutaagro.ru\local\templates\main\css\agro.ext.css
+Content Type: text/css
+
+Uri: https://gutaagro.ru/local/templates/main/css/agro.menu.css
+File Name: d:\src\gutaagro\gutaagro.ru\local\templates\main\css\agro.menu.css
+Content Type: text/css
+
+Uri: https://gutaagro.ru/local/templates/main/css/animate.css
+File Name: d:\src\gutaagro\gutaagro.ru\local\templates\main\css\animate.css
+Content Type: text/css
+
+Uri: https://gutaagro.ru/local/templates/main/css/bootstrap.min.css
+File Name: d:\src\gutaagro\gutaagro.ru\local\templates\main\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://gutaagro.ru/local/templates/main/css/index_home.css
+File Name: d:\src\gutaagro\gutaagro.ru\local\templates\main\css\index_home.css
+Content Type: text/css
+
+Uri: https://gutaagro.ru/local/templates/main/css/owl.carousel.css
+File Name: d:\src\gutaagro\gutaagro.ru\local\templates\main\css\owl.carousel.css
+Content Type: text/css
+
+Uri: https://gutaagro.ru/local/templates/main/css/owl.theme.default.min.css
+File Name: d:\src\gutaagro\gutaagro.ru\local\templates\main\css\owl.theme.default.min.css
+Content Type: text/css
+
+Uri: https://gutaagro.ru/local/templates/main/css/stylesheet_custom.css
+File Name: d:\src\gutaagro\gutaagro.ru\local\templates\main\css\stylesheet_custom.css
+Content Type: text/css
+
+Uri: https://gutaagro.ru/local/templates/main/css/stylesheet_font-awesome.min.css
+File Name: d:\src\gutaagro\gutaagro.ru\local\templates\main\css\stylesheet_font-awesome.min.css
+Content Type: text/css
+
+Uri: https://gutaagro.ru/local/templates/main/css/stylesheet_lightbox.css
+File Name: d:\src\gutaagro\gutaagro.ru\local\templates\main\css\stylesheet_lightbox.css
+Content Type: text/css
+
+Uri: https://gutaagro.ru/local/templates/main/css/stylesheet_product_list.css
+File Name: d:\src\gutaagro\gutaagro.ru\local\templates\main\css\stylesheet_product_list.css
+Content Type: text/css
+
+Uri: https://gutaagro.ru/local/templates/main/css/stylesheet_responsive.css
+File Name: d:\src\gutaagro\gutaagro.ru\local\templates\main\css\stylesheet_responsive.css
+Content Type: text/css
+
+Uri: https://gutaagro.ru/local/templates/main/css/stylesheet_suggestionbox.css
+File Name: d:\src\gutaagro\gutaagro.ru\local\templates\main\css\stylesheet_suggestionbox.css
+Content Type: text/css
+
+Uri: https://gutaagro.ru/local/templates/main/fonts/fontawesome-webfont.woff?v=4.2.0
+File Name: d:\src\gutaagro\gutaagro.ru\local\templates\main\fonts\fontawesome-webfont.woff
+Content Type: application/font-woff
+
+Uri: https://gutaagro.ru/local/templates/main/js/agrof.app.js
+File Name: d:\src\gutaagro\gutaagro.ru\local\templates\main\js\agrof.app.js
+Content Type: application/javascript
+
+Uri: https://gutaagro.ru/local/templates/main/js/bootstrap.min.js
+File Name: d:\src\gutaagro\gutaagro.ru\local\templates\main\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://gutaagro.ru/local/templates/main/js/jscript_jquery.elevateZoom-3.0.8.min.js
+File Name: d:\src\gutaagro\gutaagro.ru\local\templates\main\js\jscript_jquery.elevateZoom-3.0.8.min.js
+Content Type: application/javascript
+
+Uri: https://gutaagro.ru/local/templates/main/js/jscript_jquery.touchSwipe.min.js
+File Name: d:\src\gutaagro\gutaagro.ru\local\templates\main\js\jscript_jquery.touchSwipe.min.js
+Content Type: application/javascript
+
+Uri: https://gutaagro.ru/local/templates/main/js/jscript_stotal-storage.min.js
+File Name: d:\src\gutaagro\gutaagro.ru\local\templates\main\js\jscript_stotal-storage.min.js
+Content Type: application/javascript
+
+Uri: https://gutaagro.ru/local/templates/main/js/jscript_top.js
+File Name: d:\src\gutaagro\gutaagro.ru\local\templates\main\js\jscript_top.js
+Content Type: application/javascript
+
+Uri: https://gutaagro.ru/local/templates/main/js/jscript_xeasyTooltip.js
+File Name: d:\src\gutaagro\gutaagro.ru\local\templates\main\js\jscript_xeasyTooltip.js
+Content Type: application/javascript
+
+Uri: https://gutaagro.ru/local/templates/main/js/jscript_xjquery.easing.js
+File Name: d:\src\gutaagro\gutaagro.ru\local\templates\main\js\jscript_xjquery.easing.js
+Content Type: application/javascript
+
+Uri: https://gutaagro.ru/local/templates/main/js/jscript_xjquery.jqtransform.js
+File Name: d:\src\gutaagro\gutaagro.ru\local\templates\main\js\jscript_xjquery.jqtransform.js
+Content Type: application/javascript
+
+Uri: https://gutaagro.ru/local/templates/main/js/jscript_xjquery.lightbox.js
+File Name: d:\src\gutaagro\gutaagro.ru\local\templates\main\js\jscript_xjquery.lightbox.js
+Content Type: application/javascript
+
+Uri: https://gutaagro.ru/local/templates/main/js/jscript_xjscript_script.app.js
+File Name: d:\src\gutaagro\gutaagro.ru\local\templates\main\js\jscript_xjscript_script.app.js
+Content Type: application/javascript
+
+Uri: https://gutaagro.ru/local/templates/main/js/owl.carousel.min.js
+File Name: d:\src\gutaagro\gutaagro.ru\local\templates\main\js\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://gutaagro.ru/local/templates/main/js/wow.min.js
+File Name: d:\src\gutaagro\gutaagro.ru\local\templates\main\js\wow.min.js
+Content Type: application/javascript
+
+Uri: https://gutaagro.ru/press/
+File Name: d:\src\gutaagro\gutaagro.ru\press\index.htm
+Content Type: text/html
+
+Uri: https://gutaagro.ru/press/plany-rekonstruktsii-promsakhar/
+File Name: d:\src\gutaagro\gutaagro.ru\press\plany-rekonstruktsii-promsakhar\index.htm
+Content Type: text/html
+
+Uri: https://gutaagro.ru/press/pozharnye-dobrovoltsy-obezopasyat-okolo-trekh-tysyach-kuryan/
+File Name: d:\src\gutaagro\gutaagro.ru\press\pozharnye-dobrovoltsy-obezopasyat-okolo-trekh-tysyach-kuryan\index.htm
+Content Type: text/html
+
+Uri: https://gutaagro.ru/press/seminar-soveshchanie-po-voprosam-organizovannogo-provedeniya-uborki-zagotovki-i-pererabotki-sakharno/
+File Name: d:\src\gutaagro\gutaagro.ru\press\seminar-soveshchanie-po-voprosam-organizovannogo-provedeniya-uborki-zagotovki-i-pererabotki-sakharno\index.htm
+Content Type: text/html
+
+Uri: https://gutaagro.ru/products/
+File Name: d:\src\gutaagro\gutaagro.ru\products\index.htm
+Content Type: text/html
+
+Uri: https://gutaagro.ru/suppliers/
+File Name: d:\src\gutaagro\gutaagro.ru\suppliers\index.htm
+Content Type: text/html
+
+Uri: https://gutaagro.ru/suppliers/!ТЗскладыОХ.docx
+File Name: d:\src\gutaagro\gutaagro.ru\suppliers\!ТЗскладыОХ.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://gutaagro.ru/suppliers/Карточка контрагента для юр.лиц.doc
+File Name: d:\src\gutaagro\gutaagro.ru\suppliers\Карточка контрагента для юр.лиц.doc
+Content Type: application/msword
+
+Uri: https://gutaagro.ru/suppliers/Перечень документов для ЮЛ.docx
+File Name: d:\src\gutaagro\gutaagro.ru\suppliers\Перечень документов для ЮЛ.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://gutaagro.ru/suppliers/Согласие на обработку ПД для ЮЛ.docx
+File Name: d:\src\gutaagro\gutaagro.ru\suppliers\Согласие на обработку ПД для ЮЛ.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://gutaagro.ru/suppliers/анкета+заявка юр.лица.doc
+File Name: d:\src\gutaagro\gutaagro.ru\suppliers\анкета заявка юр.лица.doc
+Content Type: application/msword
+
+Uri: https://gutaagro.ru/suppliers/юр.лица (тендер).docx
+File Name: d:\src\gutaagro\gutaagro.ru\suppliers\юр.лица (тендер).docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://gutaagro.ru/suppliers/kardimovski.php
+File Name: d:\src\gutaagro\gutaagro.ru\suppliers\kardimovski.php.html
+Content Type: text/html
+
+Uri: https://gutaagro.ru/suppliers/promsahar.php
+File Name: d:\src\gutaagro\gutaagro.ru\suppliers\promsahar.php.html
+Content Type: text/html
+
+Uri: https://gutaagro.ru/suppliers/rilskaya.php
+File Name: d:\src\gutaagro\gutaagro.ru\suppliers\rilskaya.php.html
+Content Type: text/html
+
+Uri: https://gutaagro.ru/upload/iblock/20a/Screenshot_210.jpg
+File Name: d:\src\gutaagro\gutaagro.ru\upload\iblock\20a\Screenshot_210.jpg
+Content Type: image/jpeg
+
+Uri: https://gutaagro.ru/upload/iblock/2eb/svekl2.png
+File Name: d:\src\gutaagro\gutaagro.ru\upload\iblock\2eb\svekl2.png
+Content Type: image/png
+
+Uri: https://gutaagro.ru/upload/iblock/512/soya3.jpg
+File Name: d:\src\gutaagro\gutaagro.ru\upload\iblock\512\soya3.jpg
+Content Type: image/jpeg
+
+Uri: https://gutaagro.ru/upload/iblock/5d0/moloko.png
+File Name: d:\src\gutaagro\gutaagro.ru\upload\iblock\5d0\moloko.png
+Content Type: image/png
+
+Uri: https://gutaagro.ru/upload/iblock/70b/sugarplant.jpeg
+File Name: d:\src\gutaagro\gutaagro.ru\upload\iblock\70b\sugarplant.jpeg
+Content Type: image/jpeg
+
+Uri: https://gutaagro.ru/upload/iblock/8a4/кукуруза3.jpg
+File Name: d:\src\gutaagro\gutaagro.ru\upload\iblock\8a4\кукуруза3.jpg
+Content Type: image/jpeg
+
+Uri: https://gutaagro.ru/upload/iblock/973/forum_89.jpg
+File Name: d:\src\gutaagro\gutaagro.ru\upload\iblock\973\forum_89.jpg
+Content Type: image/jpeg
+
+Uri: https://gutaagro.ru/upload/iblock/be9/пшеница3.jpg
+File Name: d:\src\gutaagro\gutaagro.ru\upload\iblock\be9\пшеница3.jpg
+Content Type: image/jpeg
+
+Uri: https://gutaagro.ru/upload/iblock/c87/forum_89.jpg
+File Name: d:\src\gutaagro\gutaagro.ru\upload\iblock\c87\forum_89.jpg
+Content Type: image/jpeg
+
+Uri: https://gutaagro.ru/upload/iblock/d25/smoloko.png
+File Name: d:\src\gutaagro\gutaagro.ru\upload\iblock\d25\smoloko.png
+Content Type: image/png
+
+Uri: https://gutaagro.ru/upload/iblock/d83/yachmen1.png
+File Name: d:\src\gutaagro\gutaagro.ru\upload\iblock\d83\yachmen1.png
+Content Type: image/png
+
+Uri: https://gutaagro.ru/upload/iblock/e02/sugar.png
+File Name: d:\src\gutaagro\gutaagro.ru\upload\iblock\e02\sugar.png
+Content Type: image/png
+
+Uri: https://gutaagro.ru/upload/iblock/fa5/melassa.png
+File Name: d:\src\gutaagro\gutaagro.ru\upload\iblock\fa5\melassa.png
+Content Type: image/png
+
+Uri: https://gutaagro.ru/upload/medialibrary/17f/_STE3661.jpg
+File Name: d:\src\gutaagro\gutaagro.ru\upload\medialibrary\17f\_STE3661.jpg
+Content Type: image/jpeg
+
+Uri: https://gutaagro.ru/upload/medialibrary/31c/Рисунок3.jpg
+File Name: d:\src\gutaagro\gutaagro.ru\upload\medialibrary\31c\Рисунок3.jpg
+Content Type: image/jpeg
+
+Uri: https://gutaagro.ru/upload/medialibrary/380/svdupr.jpg
+File Name: d:\src\gutaagro\gutaagro.ru\upload\medialibrary\380\svdupr.jpg
+Content Type: image/jpeg
+
+Uri: https://gutaagro.ru/upload/medialibrary/5b9/Рисунок6.jpg
+File Name: d:\src\gutaagro\gutaagro.ru\upload\medialibrary\5b9\Рисунок6.jpg
+Content Type: image/jpeg
+
+Uri: https://gutaagro.ru/upload/medialibrary/970/forum_71.JPG
+File Name: d:\src\gutaagro\gutaagro.ru\upload\medialibrary\970\forum_71.JPG
+Content Type: image/jpeg
+
+Uri: https://gutaagro.ru/upload/medialibrary/ccc/2015-08-28_152225.jpg
+File Name: d:\src\gutaagro\gutaagro.ru\upload\medialibrary\ccc\2015-08-28_152225.jpg
+Content Type: image/jpeg
+
+Uri: https://gutaagro.ru/upload/medialibrary/d91/Рисунок2.jpg
+File Name: d:\src\gutaagro\gutaagro.ru\upload\medialibrary\d91\Рисунок2.jpg
+Content Type: image/jpeg
+
+Uri: https://mc.yandex.ru/watch/32608355
+File Name: d:\src\gutaagro\gutaagro.ru\watch\32608355
+Content Type: image/gif
+
