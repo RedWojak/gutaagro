@@ -51,7 +51,7 @@
 
 .theme-default a.nivo-prevNav:after,
 .theme-default a.nivo-nextNav:after {
-  content: "";
+  content: "ï";
   position: absolute;
   font-family: "FontAwesome";
   font-size: 30px;
@@ -65,7 +65,7 @@
 }
 
 .theme-default a.nivo-prevNav:after {
-  content: "";
+  content: "ï";
   left: -40px;
 }
 

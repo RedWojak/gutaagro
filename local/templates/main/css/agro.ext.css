@@ -111,16 +111,16 @@ margin-top:35px;
 	color:#75b933;
 }
 .address-block .address {
-	background:url(../../../../images/map-marker.svg) left top no-repeat;
+	background:url(/images/map-marker.svg) left top no-repeat;
 }
 .address-block .phone {
-	background:url(../../../../images/phone.svg) left top no-repeat;
+	background:url(/images/phone.svg) left top no-repeat;
 }
 .address-block .email {
-	background:url(../../../../images/email-outline.svg) left top no-repeat;
+	background:url(/images/email-outline.svg) left top no-repeat;
 }
 .address-block .user {
-	background: url(../../../../images/account.svg) left top no-repeat;
+	background: url(/images/account.svg) left top no-repeat;
 }
 
 /**/
@@ -243,7 +243,7 @@ table th, table td {
   position: absolute;
 	font-weight:bold;
 	padding-right:30px;
-	background:url(../../../../images/arrow-right-bold-circle-outline.svg) right center no-repeat;
+	background:url(/images/arrow-right-bold-circle-outline.svg) right center no-repeat;
 }
 
 header .bottom {padding-top: 0; padding-bottom: 16px;}
@@ -359,10 +359,10 @@ header .bottom {padding-top: 0; padding-bottom: 16px;}
  -o-transition: background-image 1s ease-out 0.5s;
  transition: background-image 1s ease-out 0.5s;	
 }	
-.bgr0 {background-image:url(../../../../images/s/slide1.png);} 
-.bgr1 {background-image:url(../../../../images/s/slide5.png);}
-.bgr2 {background-image:url(../../../../images/s/slide5.png);}
-.bgr3 {background-image:url(../../../../images/s/slide3.jpg);}
+.bgr0 {background-image:url(/images/s/slide1.png);} 
+.bgr1 {background-image:url(/images/s/slide5.png);}
+.bgr2 {background-image:url(/images/s/slide5.png);}
+.bgr3 {background-image:url(/images/s/slide3.jpg);}
 
 .owl-wrapper {
 	margin: 10px 80px 40px;
@@ -407,12 +407,12 @@ header .bottom {padding-top: 0; padding-bottom: 16px;}
 	width: 40px;
 	height: 30px;
 	display: block;
-	background: url(../../../../images/menu-left.svg) left center no-repeat;
+	background: url(/images/menu-left.svg) left center no-repeat;
 	background-size: cover;
 	opacity:0.4;
 }
 .owl-theme .owl-controls .owl-nav  .owl-prev:hover {
-	background: url(../../../../images/menu-left.svg) left center no-repeat;
+	background: url(/images/menu-left.svg) left center no-repeat;
 	background-size: cover;
 	opacity:1;
 }
@@ -422,12 +422,12 @@ header .bottom {padding-top: 0; padding-bottom: 16px;}
 	width: 40px;
 	height: 30px;
 	display: block;
-	background: url(../../../../images/menu-right.svg) right center no-repeat;
+	background: url(/images/menu-right.svg) right center no-repeat;
 	background-size: cover;
 	opacity:0.4;
 }	
 .owl-theme .owl-controls .owl-nav  .owl-next:hover {
-	background: url(../../../../images/menu-right.svg) right center no-repeat;
+	background: url(/images/menu-right.svg) right center no-repeat;
 	background-size: cover;
 	opacity:1;
 }

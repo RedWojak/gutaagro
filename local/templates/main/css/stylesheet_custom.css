@@ -1,4 +1,4 @@
-﻿@charset "UTF-8";
+@charset "UTF-8";
 /*!
  * Bootstrap v3.2.0 (http://getbootstrap.com)
  * Copyright 2011-2014 Twitter, Inc.
@@ -7468,8 +7468,8 @@ button.close {
  */
 @font-face {
   font-family: 'FontAwesome';
-  src: url("../fonts/fontawesome-webfont.eot?v=4.2.0");
-  src: url("../fonts/fontawesome-webfont.eot?#iefix&v=4.2.0") format("embedded-opentype"), url("../fonts/fontawesome-webfont.woff") format("woff"), url("../fonts/fontawesome-webfont.ttf?v=4.2.0") format("truetype"), url("../fonts/fontawesome-webfont.svg?v=4.2.0#fontawesomeregular") format("svg");
+  src: url("../fonts/fontawesome-webfont.eot");
+  src: url("../fonts/fontawesome-webfont.eot?#iefix&v=4.2.0") format("embedded-opentype"), url("../fonts/fontawesome-webfont.woff") format("woff"), url("../fonts/fontawesome-webfont.ttf") format("truetype"), url("../fonts/fontawesome-webfont.svgv=4.2.0#fontawesomeregular") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -9736,7 +9736,7 @@ div#header_logo a {
   font-weight: bold;
 }
 .nav .phone:before {
-  content: '';
+  content: 'ï';
   color: #000;
   font-family: "FontAwesome";
   font-size: 14px;
@@ -10621,7 +10621,7 @@ table.shipping_wrapper tr td {
   cursor: pointer;
 }
 .messageStackSuccess .close_msg:before {
-  content: '';
+  content: 'ï';
   font-family: "FontAwesome";
   font-size: 16px;
   position: relative;
@@ -10642,7 +10642,7 @@ table.shipping_wrapper tr td {
 }
 .check_ico:after {
   position: absolute;
-  content: "";
+  content: "ï";
   font-family: "FontAwesome";
   font-size: 30px;
   font-weight: 300;
@@ -10693,7 +10693,7 @@ table.shipping_wrapper tr td {
 }
 .messageStackError.larger .close_msg:before,
 .messageStackCaution.larger .close_msg:before {
-  content: '';
+  content: 'ï';
   font-family: "FontAwesome";
   font-size: 12px;
   line-height: 18px;
@@ -11172,7 +11172,7 @@ span.grower.CLOSE:hover:before {
   border-bottom: 1px solid #e5e5e5;
 }
 .greeting h2.hello:after {
-  content: '';
+  content: 'ï';
   font-family: "FontAwesome";
   font-size: 86px;
   line-height: 80px;
@@ -11187,7 +11187,7 @@ span.grower.CLOSE:hover:before {
   border-bottom: 1px solid #a3d193;
 }
 .greeting h2.welcome:after {
-  content: '';
+  content: 'ï';
   font-family: "FontAwesome";
   font-size: 90px;
   line-height: 80px;
@@ -11631,13 +11631,13 @@ div.navSplitPagesResult {
 }
 .top-paginator .listing_view #grid a:before,
 .bottom-paginator .listing_view #grid a:before {
-  content: '';
+  content: 'ï';
   font: 400 27px/27px "FontAwesome";
   display: block;
 }
 .top-paginator .listing_view #list a:before,
 .bottom-paginator .listing_view #list a:before {
-  content: '';
+  content: 'ï';
   font: 400 27px/27px "FontAwesome";
   display: block;
 }
@@ -11802,7 +11802,7 @@ span#cartImage > img {
 }
 
 .cartAttribsList ul li:before {
-  content: "";
+  content: "ï";
   font-family: "FontAwesome";
   color: #333333;
   position: relative;
@@ -12969,7 +12969,7 @@ ul#myAccountGen {
 }
 
 ul#myAccountGen li:before {
-  content: "";
+  content: "ï";
   font-family: "FontAwesome";
   color: #333333;
   position: relative;
@@ -12981,7 +12981,7 @@ ul#myAccountGen li:before {
 }
 
 ul#myAccountNotify li:before {
-  content: "";
+  content: "ï";
   font-family: "FontAwesome";
   color: #333333;
   position: relative;

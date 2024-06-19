@@ -519,13 +519,13 @@
   left: 0;
 }
 .specials_p #prev2:before {
-  content: '';
+  content: 'ï';
 }
 .specials_p #next2 {
   left: 35px;
 }
 .specials_p #next2:before {
-  content: '';
+  content: 'ï';
 }
 
 /* quick links & brands style & manufacturers & categories*/
