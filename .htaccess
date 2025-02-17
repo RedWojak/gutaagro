@@ -1,10 +1,10 @@
 Options -Indexes 
-ErrorDocument 404 404.html
+
 
 <IfModule mod_rewrite.c>
   Options +FollowSymLinks
   RewriteEngine On
-
+  ErrorDocument 404 https://gutaagro.ru/404.html
   RewriteCond %{REQUEST_FILENAME} !-f
   RewriteCond %{REQUEST_FILENAME} !-l
   RewriteCond %{REQUEST_FILENAME} !-d
