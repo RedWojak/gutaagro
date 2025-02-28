@@ -14,11 +14,11 @@ Disallow: /personal/
 Disallow: /search/
 Disallow: /test/
 Disallow: /ajax/
-Disallow: index.php
+Disallow: *index.php
 Disallow: /*show_include_exec_time=
 Disallow: /*show_page_exec_time=
 Disallow: /*show_sql_stat=
-Disallow: bitrix
+Disallow: *bitrix
 Disallow: /*clear_cache=
 Disallow: /*clear_cache_session=
 Disallow: /*ADD_TO_COMPARE_LIST
@@ -40,5 +40,5 @@ Disallow: /*BACK_URL=
 Disallow: /*back_url_admin=
 Disallow: /*?utm_source=
 Disallow: ?arrFilter
-Disallow: /?zo
+Disallow: /*?zo
 Host: https://gutaagro.ru
